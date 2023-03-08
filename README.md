@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 - 
 - # Connect with me:
-[![website](./img/Instagram_logo_2016.svg.webp)](https://instagram.com/veraptrc_#gh-light-mode-only)
+[![website](./img/Instagram_logo_2016.svg.webp)](https://instagram.com/veraptrc_#gh)
 
 
