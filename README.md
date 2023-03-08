@@ -13,5 +13,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 - # Connect with me:
-[![website](./img/instagram-light.svg)](https://instagram.com/veraptrc_#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/veraptrc_#gh-dark-mode-only)
+
