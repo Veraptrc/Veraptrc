@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi Guysss 👋💖
 
 **Veraptrc/Veraptrc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -12,5 +12,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- # Connect with me:
 [![website](./img/instagram-light.svg)](https://instagram.com/veraptrc_#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/veraptrc_#gh-dark-mode-only)
