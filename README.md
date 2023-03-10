@@ -2,6 +2,7 @@ https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbll
 <h1 align="center">Haiii Guys!👋 I'm Vera Patricia 🤎</h1>
 <h3 align="center">"Do your best at every opportunity that you have."</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=veraptrc&label=Profile%20view%color=0e75b6&style=flat" alt="veraptrc" /> </p>
 - 🎓 Studying at [Multi Data Palembang University](https://mdp.ac.id/)
 
 - 🌱 I’m currently learning **Java and Mysql**
