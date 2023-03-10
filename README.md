@@ -8,7 +8,8 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning html and java 💫
 - 📫 How to reach me: ...
 
-- # Connect with me:
-[![website](./img/Instagram_logo_2016.svg.webp)](https://instagram.com/veraptrc_#gh)
+### Connect with me:
+[![website](./img/instagram-light.svg)](https://www.instagram.com/veraptrc_/#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://www.instagram.com/veraptrc_/#gh-dark-mode-only)
 
 
