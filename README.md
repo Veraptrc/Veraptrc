@@ -1,15 +1,15 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 <h1 align="center">Haiii Guys!👋 I'm Vera Patricia 🤎</h1>
+
 <h3 align="center">"Do your best at every opportunity that you have."</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
+<img align="right" alt="Coding" width="250" src="https://tutorialaplikasi.com/wp-content/uploads/2016/09/Animasi-bergerak-spongeboob.gif"
+   
+🎓 Studying at [Multi Data Palembang University](https://mdp.ac.id/)
 
-- 🎓 Studying at [Multi Data Palembang University](https://mdp.ac.id/)
+🌱 I’m currently learning **Java and Mysql**
 
-- 🌱 I’m currently learning **Java and Mysql**
+💬 Ask me about **anything!**
 
-- 💬 Ask me about **anything!**
-
-- 📫 How to reach me **verapatricia@mhs.mdp.ac.id**
+📫 How to reach me **verapatricia@mhs.mdp.ac.id**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
