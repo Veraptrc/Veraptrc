@@ -1,7 +1,7 @@
-![MasterHead](https://64.media.tumblr.com/37b5c0c6c5e192711f52f6b69c0c9981/tumblr_p9m67p5yW71x1gtnwo4_r1_1280.gifv)
+![MasterHead](https://64.media.tumblr.com/c6872a0118e73908c8523fbafede158b/tumblr_oz3l83lbxW1vghtqoo1_1280.gif)
 <h1 align="center">Haiii Guys!👋 I'm Vera Patricia 🤎</h1>
 <h3 align="center">"Do your best at every opportunity that you have."</h3>
-<img align="right" alt="Coding" width="250" src="https://tutorialaplikasi.com/wp-content/uploads/2016/09/Animasi-bergerak-spongeboob.gif"
+<img align="right" alt="Coding" width="350" src="https://img.wattpad.com/7df751eccde4c1eee353b7bfdf552f4f7e504bc3/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f69614d6a4159315f5034486134413d3d2d3732303439373137382e313539363164326166646138653432353933313435303939363836312e676966"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=veraptrc&label=Profile%20views&color=0e75b6&style=flat" alt="veraptrc" /> </p>
 
