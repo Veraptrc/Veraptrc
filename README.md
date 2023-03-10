@@ -1,10 +1,6 @@
-https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif
 <h1 align="center">Haiii Guys!👋 I'm Vera Patricia 🤎</h1>
 <h3 align="center">"Do your best at every opportunity that you have."</h3>
-https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=veraptrc&label=Profile%20view%color=0e75b6&style=flat" alt="veraptrc" /> </p>
-<p align="left"> <a href="https://twitter.com/veraptrc" target="blank"><img src = "https://imt.shields.io/twitter/follow/veraptrc?logo=twitter&style=for-the-badge" alt="veraptrc" /><?a> </p>
 - 🎓 Studying at [Multi Data Palembang University](https://mdp.ac.id/)
 
 - 🌱 I’m currently learning **Java and Mysql**
