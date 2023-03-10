@@ -1,3 +1,4 @@
+![MasterHead](https://64.media.tumblr.com/37b5c0c6c5e192711f52f6b69c0c9981/tumblr_p9m67p5yW71x1gtnwo4_r1_1280.gifv)
 <h1 align="center">Haiii Guys!👋 I'm Vera Patricia 🤎</h1>
 <h3 align="center">"Do your best at every opportunity that you have."</h3>
 <img align="right" alt="Coding" width="250" src="https://tutorialaplikasi.com/wp-content/uploads/2016/09/Animasi-bergerak-spongeboob.gif"
