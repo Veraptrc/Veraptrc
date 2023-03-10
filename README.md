@@ -1,5 +1,6 @@
 <h1 align="center">Haiii Guys!👋 I'm Vera Patricia 🤎</h1>
 <h3 align="center">"Do your best at every opportunity that you have."</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
 
 - 🎓 Studying at [Multi Data Palembang University](https://mdp.ac.id/)
 
